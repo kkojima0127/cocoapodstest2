@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Scheme
    LastUpgradeVersion = "0510"
-   version = "1.3">
+   version = "1.7">
    <BuildAction
       parallelizeBuildables = "YES"
       buildImplicitDependencies = "YES">
@@ -64,6 +64,15 @@
             <ActionContent
                title = "Run Script"
                scriptText = "cd ${SRCROOT}&#10;pod install">
+               <EnvironmentBuildable>
+                  <BuildableReference
+                     BuildableIdentifier = "primary"
+                     BlueprintIdentifier = "C100E241194DD46200CA8952"
+                     BuildableName = "cocoapodstest2.app"
+                     BlueprintName = "cocoapodstest2"
+                     ReferencedContainer = "container:cocoapodstest2.xcodeproj">
+                  </BuildableReference>
+               </EnvironmentBuildable>
             </ActionContent>
          </ExecutionAction>
       </PreActions>
