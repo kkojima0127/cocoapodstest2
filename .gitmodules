@@ -1,0 +1,3 @@
+[submodule "cocoapodstest2/bootstrap"]
+	path = cocoapodstest2/bootstrap
+	url = git://github.com/twitter/bootstrap.git
