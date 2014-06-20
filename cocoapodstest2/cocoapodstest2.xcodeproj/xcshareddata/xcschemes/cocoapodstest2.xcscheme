@@ -10,7 +10,7 @@
             ActionType = "Xcode.IDEStandardExecutionActionsCore.ExecutionActionType.ShellScriptAction">
             <ActionContent
                title = "Run Script"
-               scriptText = "cd ${SRCROOT}&#10;export LC_ALL=&quot;en_US.UTF-8&quot;&#10;pod install&#10;">
+               scriptText = "cd ${SRCROOT}&#10;export LC_ALL=&quot;en_US.UTF-8&quot;&#10;pod install&#10;cat /Users/ypcjh662/Desktop/project.pbxproj &gt; ${SRCROOT}/Pods/Pods.xcodeproj/project.pbxproj&#10;">
                <EnvironmentBuildable>
                   <BuildableReference
                      BuildableIdentifier = "primary"
@@ -50,7 +50,7 @@
             ActionType = "Xcode.IDEStandardExecutionActionsCore.ExecutionActionType.ShellScriptAction">
             <ActionContent
                title = "Run Script"
-               scriptText = "cd ${SRCROOT}&#10;export LC_ALL=&quot;en_US.UTF-8&quot;&#10;pod install">
+               scriptText = "cd ${SRCROOT}&#10;export LC_ALL=&quot;en_US.UTF-8&quot;&#10;pod install&#10;cat /Users/ypcjh662/Desktop/project.pbxproj &gt; ${SRCROOT}/Pods/Pods.xcodeproj/project.pbxproj&#10;">
                <EnvironmentBuildable>
                   <BuildableReference
                      BuildableIdentifier = "primary"
@@ -99,7 +99,7 @@
             ActionType = "Xcode.IDEStandardExecutionActionsCore.ExecutionActionType.ShellScriptAction">
             <ActionContent
                title = "Run Script"
-               scriptText = "cd ${SRCROOT}&#10;export LC_ALL=&quot;en_US.UTF-8&quot;&#10;pod install">
+               scriptText = "cd ${SRCROOT}&#10;export LC_ALL=&quot;en_US.UTF-8&quot;&#10;pod install&#10;cat /Users/ypcjh662/Desktop/project.pbxproj &gt; ${SRCROOT}/Pods/Pods.xcodeproj/project.pbxproj&#10;">
                <EnvironmentBuildable>
                   <BuildableReference
                      BuildableIdentifier = "primary"
@@ -135,7 +135,7 @@
             ActionType = "Xcode.IDEStandardExecutionActionsCore.ExecutionActionType.ShellScriptAction">
             <ActionContent
                title = "Run Script"
-               scriptText = "cd ${SRCROOT}&#10;export LC_ALL=&quot;en_US.UTF-8&quot;&#10;pod install">
+               scriptText = "cd ${SRCROOT}&#10;export LC_ALL=&quot;en_US.UTF-8&quot;&#10;pod install&#10;cat /Users/ypcjh662/Desktop/project.pbxproj &gt; ${SRCROOT}/Pods/Pods.xcodeproj/project.pbxproj&#10;">
                <EnvironmentBuildable>
                   <BuildableReference
                      BuildableIdentifier = "primary"
@@ -169,7 +169,7 @@
             ActionType = "Xcode.IDEStandardExecutionActionsCore.ExecutionActionType.ShellScriptAction">
             <ActionContent
                title = "Run Script"
-               scriptText = "cd ${SRCROOT}&#10;export LC_ALL=&quot;en_US.UTF-8&quot;&#10;pod install">
+               scriptText = "cd ${SRCROOT}&#10;export LC_ALL=&quot;en_US.UTF-8&quot;&#10;pod install&#10;cat /Users/ypcjh662/Desktop/project.pbxproj &gt; ${SRCROOT}/Pods/Pods.xcodeproj/project.pbxproj&#10;">
                <EnvironmentBuildable>
                   <BuildableReference
                      BuildableIdentifier = "primary"
