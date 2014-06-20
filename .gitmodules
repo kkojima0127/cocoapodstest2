@@ -1,3 +1,6 @@
 [submodule "cocoapodstest2/bootstrap"]
 	path = cocoapodstest2/bootstrap
 	url = git://github.com/twitter/bootstrap.git
+[submodule "cocoapodstest2/cocoapodstest2.xcodeproj/Library/AFNetworking"]
+	path = cocoapodstest2/cocoapodstest2.xcodeproj/Library/AFNetworking
+	url = https://github.com/AFNetworking/AFNetworking
